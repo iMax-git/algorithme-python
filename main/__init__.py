@@ -1,8 +1,4 @@
-'''
-Created on 2 nov. 2020
 
-@author: tdiard
-'''
 
 
 
